@@ -5,6 +5,6 @@ This repository contains battery performance data collected using an HP 6050A El
 The data logging GUI used for these tests is located [here](https://github.com/MB3hel/HP6050AGUI)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juchong/2655-Battery-Testing/master/images/battery_performance_example.png" alt="Example plot of battery performance" width="60%%" />
+  <img src="https://raw.githubusercontent.com/FRC-Team2655/2655-Battery-Testing/master/images/battery_performance_example.png" alt="Example plot of battery performance" width="90%%" />
 </p>
 
